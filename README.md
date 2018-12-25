@@ -1,5 +1,11 @@
 # Tools 0day Scanning Website
 
+# Cara Eksekusi Tools 0day
+
+perl 0-day -u list.txt -t 15
+
+NB : Hasil Scanning Tools 0day,,harus exploit manual okey gaesss
+
 My Youtube : https://www.youtube.com/channel/UCKdOPQ_iIXcqK17PB_2RMdQ
 
 My Website : http://hackingforlive.cf
