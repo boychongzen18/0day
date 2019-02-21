@@ -6,12 +6,15 @@ perl 0-day -u list.txt -t 15
 
 NB : Hasil Scanning Tools 0day,,harus exploit manual okey gaesss
 
-My Youtube : https://www.youtube.com/channel/UCKdOPQ_iIXcqK17PB_2RMdQ
+My Youtube    : https://www.youtube.com/channel/UCKdOPQ_iIXcqK17PB_2RMdQ
 
-My Website : http://hackingforlive.cf
+Link Tutorial : https://youtu.be/2OpnXruFqSs
 
-My Facebok : https://web.facebook.com/xroot.xroot.7
+My Website    : http://hackingforlive.cf
 
-Moto : Berbagi Itu Indah
+My Facebok    : https://web.facebook.com/xroot.xroot.7
 
-Regard Boychongzen aka Xroot
+
+# Moto : Berbagi Itu Indah
+
+# Regard Boychongzen aka Xroot
